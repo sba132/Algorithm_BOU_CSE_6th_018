@@ -12,7 +12,7 @@ public class Algorithm {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         while (true) {
-            System.out.println("----------------------------\n"
+            System.out.println("\n----------------------------\n"
                     + "  ***Computer Algorithm*** \n"
                     + "----------------------------\n"
                     + "1. Data Structure\n"
